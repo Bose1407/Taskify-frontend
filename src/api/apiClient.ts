@@ -2,7 +2,7 @@
 import { toast } from "sonner";
 
 // Use the actual API URL when deploying
-const API_BASE_URL ="http://localhost:5000/api";
+const API_BASE_URL ="https://taskify-backend-bey2.onrender.com/api";
 
 interface ApiOptions {
   method: string;
